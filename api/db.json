@@ -1,0 +1,35 @@
+{
+  "streams": [
+    {
+      "title": "abcd",
+      "description": "abcd",
+      "id": 1
+    },
+    {
+      "title": "abcd",
+      "description": "abcd",
+      "id": 2
+    },
+    {
+      "title": "abcd",
+      "description": "abcd",
+      "id": 3
+    },
+    {
+      "title": "I created this stream",
+      "description": "This was made by me second time",
+      "id": 4
+    },
+    {
+      "title": "Programatic  Navigation",
+      "description": "Created while testing navigation!!! second",
+      "id": 5
+    },
+    {
+      "title": "New",
+      "description": "Newwwww",
+      "userId": "112199413450226991674",
+      "id": 6
+    }
+  ]
+}
